@@ -4,5 +4,5 @@
 
 def roll
   x = [1,2,3,4,5,6]
-  return x[rand(1..6)]
+  return x[rand(7)]
 end
